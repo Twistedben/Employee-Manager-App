@@ -7,7 +7,7 @@ import { CardSection } from './common';
 class ListItem extends Component {
   onRowPress() {
     // BElow we want to pass in the existing employee to the EmployeeCreate so it knows it's an existing employee that was clicked and selected
-    Actions.employeeCreate({ employee: this.props.employee });
+    Actions.employeeEdit({ employee: this.props.employee });
   }
   render() {
    const { name } = this.props.employee;
