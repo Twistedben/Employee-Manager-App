@@ -1,7 +1,6 @@
 # Manager App 
 
-### React-Native Redux - Employee Management App
----------
+## React-Native Redux - Employee Management App
 
 #### Description
 ---------
@@ -20,5 +19,7 @@ The Manager app is a Mobile employee management system application. It allows ma
 ---------
 
 ![alt text](https://github.com/Twistedben/Employee-Manager-App/blob/master/screenshots/employee_list.png "List of Employees")
+----------
 ![alt text](https://github.com/Twistedben/Employee-Manager-App/blob/master/screenshots/employee_create.png "Create a new Employee")
+----------
 ![alt text](https://github.com/Twistedben/Employee-Manager-App/blob/master/screenshots/employee_update.png "Interact with Employee and Update")
